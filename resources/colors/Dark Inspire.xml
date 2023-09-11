@@ -9,7 +9,7 @@
     <property name="vendorMail">aykononov@yandex.ru</property>
     <property name="vendorName">Aleksandr Kononov</property>
     <property name="vendorUrl">https://github.com/aykononov/intellij-dark-inspire-theme</property>
-    <property name="version">1.0.0</property>
+    <property name="version">1.0.3</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="24282a" />
