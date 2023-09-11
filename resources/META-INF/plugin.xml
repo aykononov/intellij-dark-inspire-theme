@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.Dark Inspire</id>
+  <name>Dark Inspire Color Scheme</name>
+  <version>1.0.0</version>
+  <vendor email="aykononov@yandex.ru" url="https://github.com/aykononov/intellij-dark-inspire-theme">Aleksandr Kononov</vendor>
+
+  <description><![CDATA[
+      This is a Dark theme for JetBrains IDE, inspired by the default theme "Dark Inspire"
+    ]]></description>
+
+  <change-notes><![CDATA[
+      
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Dark Inspire"/>
+  </extensions>
+</idea-plugin>
